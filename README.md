@@ -15,11 +15,11 @@ git clone https://github.com/afaqueumer/DocQA.git
 ```
 Create Virtual Environment and Install the required dependencies ⚙️
 ```
-Run ➡️ setup_env.bat 
+Run ➡️ setup_env.sh 
 ```
 Launch Streamlit App 🚀
 ```
-Run ➡️ run_app.bat
+Run ➡️ run_app.sh
 ```
 ## Usage
 Once you have the Streamlit  web application up and running, you can perform the following steps:
